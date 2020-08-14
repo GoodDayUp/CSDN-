@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（六）：自定义求导(tf.GradientTape)
-date: 2019-9-16 11:01:40
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（六）：自定义求导(tf.GradientTape)
 ---
 
 
