@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（一）
-date: 2019-9-4 16:28:40
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（一）
 ---
 
 # 目录
