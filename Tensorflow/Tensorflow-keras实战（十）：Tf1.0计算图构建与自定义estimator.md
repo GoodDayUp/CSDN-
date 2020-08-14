@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（十）：Tf1.0计算图构建与自定义estimator
-date: 2019-9-21 16:03:20
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（十）：Tf1.0计算图构建与自定义estimator
 ---
 
 
