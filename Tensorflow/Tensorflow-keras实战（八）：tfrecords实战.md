@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（八）：tfrecords实战
-date: 2019-9-18 13:19:20
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（八）：tfrecords实战
 ---
 
 
