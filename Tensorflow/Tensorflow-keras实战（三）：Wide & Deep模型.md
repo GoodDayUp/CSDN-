@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（三）：Wide & Deep模型
-date: 2019-9-5 17:08:40
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（三）：Wide & Deep模型
 ---
 
 
