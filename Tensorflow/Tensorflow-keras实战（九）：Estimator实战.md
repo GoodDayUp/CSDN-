@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（九）：Estimator实战
-date: 2019-9-19 12:17:20
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（九）：Estimator实战
 ---
 
 # 目录：
