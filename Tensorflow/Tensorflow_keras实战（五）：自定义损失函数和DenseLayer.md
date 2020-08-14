@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（五）：自定义损失函数和DenseLayer
-date: 2019-9-15 12:56:40
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（五）：自定义损失函数和DenseLayer
 ---
 
 
