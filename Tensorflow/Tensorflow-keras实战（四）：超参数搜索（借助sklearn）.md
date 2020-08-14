@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（四）：超参数搜索(借助sklearn)
-date: 2019-9-7 13:56:40
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（四）：超参数搜索(借助sklearn)
 ---
 
 
