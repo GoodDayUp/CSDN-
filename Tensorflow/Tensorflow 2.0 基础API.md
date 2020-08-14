@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow基础API
-date: 2019-9-8 15:02:40
-tags: [tensorflow]
-categories: 深度学习-tensorflow
+Tensorflow基础API
 ---
 
 #### 1.导入
