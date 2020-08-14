@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（十一）：Embedding实战(embedding+padding+pooling)
-date: 2019-9-30 14:23:20
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（十一）：Embedding实战(embedding+padding+pooling)
 ---
 
 
