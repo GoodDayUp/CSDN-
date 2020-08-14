@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow2.0模型（官方文档）笔记：基础
-date: 2019-10-31 10:23:20
-tags: [tensorflow]
-categories: 深度学习-tensorflow
+Tensorflow2.0模型（官方文档）笔记：基础
 ---
 
 在 TensorFlow 2.0 版本中，Eager Execution 模式为默认模式，无需额外调
