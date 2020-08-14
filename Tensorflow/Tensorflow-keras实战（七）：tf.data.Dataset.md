@@ -1,8 +1,5 @@
 ﻿---
-title: Tensorflow-keras实战（七）：tf.data.Dataset
-date: 2019-9-17 13:14:20
-tags: [tensorflow,keras,深度学习]
-categories: 深度学习-tensorflow
+Tensorflow-keras实战（七）：tf.data.Dataset
 ---
 
 # 目录：
